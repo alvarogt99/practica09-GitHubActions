@@ -1,3 +1,3 @@
 # practica09-GitHubActions-
 
-![Badge.](https://github.com/alvarogt99/practica09-GitHubActions/actions/workflows/ci-primer-wf.yml/badge.svg)
+[![ci-primer-wf](https://github.com/alvarogt99/practica09-GitHubActions/actions/workflows/ci-primer-wf.yml/badge.svg)](https://github.com/alvarogt99/practica09-GitHubActions/actions/workflows/ci-primer-wf.yml)
